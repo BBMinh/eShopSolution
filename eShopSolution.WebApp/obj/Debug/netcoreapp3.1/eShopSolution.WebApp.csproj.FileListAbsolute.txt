@@ -64,3 +64,5 @@ E:\.NET_CORE\eShopSolution\eShopSolution.WebApp\bin\Debug\netcoreapp3.1\runtimes
 E:\.NET_CORE\eShopSolution\eShopSolution.WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\.NET_CORE\eShopSolution\eShopSolution.WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\.NET_CORE\eShopSolution\eShopSolution.WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\.NET_CORE\eShopSolution\eShopSolution.WebApp\obj\Debug\netcoreapp3.1\eShopSolution.WebApp.csproj.CoreCompileInputs.cache
+E:\.NET_CORE\eShopSolution\eShopSolution.WebApp\obj\Debug\netcoreapp3.1\eShopSolution.WebApp.MvcApplicationPartsAssemblyInfo.cache
